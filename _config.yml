@@ -71,7 +71,7 @@ safe: False
 lsi: False
 username: ayusukrisna
 repo: ayusukrisna.github.io
-branch: master
+branch: source
 relative_source: ../source/
 destination: ../master/
 production_url:  http://ayusukrisna.github.io/
