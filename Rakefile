@@ -5,9 +5,11 @@
 #
 #############################################################################
 
+require 'rubygems'
 require 'rake'
 require 'date'
 require 'yaml'
+require 'time'
 
 CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"]
@@ -15,6 +17,44 @@ REPO = CONFIG["repo"]
 SOURCE_BRANCH = CONFIG["branch"]
 DESTINATION_BRANCH = "master"
 CNAME = CONFIG["CNAME"]
+SOURCE = "."
+POSTS = File.join(SOURCE, "_posts")
+EXT = "md"
+
+# Usage: rake post title="A Title"
+desc "Begin a new post in #{POSTS}"
+task :post do
+  abort("rake aborted: '#{POSTS}' directory not found.") unless FileTest.directory?(POSTS)
+  title = ENV["title"] || ENV["Title"] || "new-post"
+  slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  begin
+    date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
+    time = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%T %z')
+  rescue => e
+    puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
+    exit -1
+  end
+  filename = File.join(POSTS, "#{date}-#{slug}.#{EXT}")
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+
+  puts "Creating new post: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "current: post"
+    post.puts "cover:"
+    post.puts "navigation: True"
+    post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts "date: #{ date } #{ time }"
+    post.puts "tags:"
+    post.puts "class: post-template"
+    post.puts "subclass: 'post'"
+    post.puts "author: shina"
+    post.puts "---"
+  end
+end # task :post
 
 def check_destination
   unless Dir.exist? CONFIG["destination"]
