@@ -11,7 +11,7 @@ subclass: 'post'
 author: shina
 ---
 Today, I wrote my first page in HTML all by myself. It is called shina's page and you can get to it by clicking here! 
-[Shina's First Page](https://shinaspage/)
+[Shina's First Page](/shinaspage/)
 
 Here's a screenshot of the page I made:
 
