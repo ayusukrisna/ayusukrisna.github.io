@@ -8,6 +8,35 @@ words_per_minute: 200
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: ""
 
+collections:
+  authors:
+    output: true
+    permalink: author/:title/
+  tags:
+    output: true
+    permalink: tag/:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
+  -
+    scope:
+      path: ""
+      type: tags
+    values:
+      layout: tag
+  -
+    scope:
+      path: ""
+      type: post
+    values:
+      author: shina
+
+
 # Website info
 title: Shina
 description: "An accountant who is one step closer to reaching her goals"

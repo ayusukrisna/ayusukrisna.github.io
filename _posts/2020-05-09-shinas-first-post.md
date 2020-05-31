@@ -5,10 +5,10 @@ cover: assets/images/shina-cover.jpg
 navigation: True
 title: "Shina's First Post"
 date: 2020-05-09 22:21:20 +0800
-tags:
+tags: [Getting Started, Things I Like]
 class: post-template
 subclass: 'post'
-author: shina
+authors: [shina, jetroid]
 ---
 
 
