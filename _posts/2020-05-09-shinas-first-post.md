@@ -12,7 +12,8 @@ authors: [shina, jetroid]
 ---
 
 
-##Om  Swastiastu
+## Om  Swastiastu
+
 ***Happy to see you here.***
 
 Hi, my name is Ni Luh Ayu Sukrisna Dewi and you can call me either Ni or Shina. In this year 2020, when the Global Pandemic is happening all around the world, I set up some goals. One of them is to have my personal website. 
