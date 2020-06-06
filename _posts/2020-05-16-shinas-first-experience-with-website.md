@@ -8,7 +8,7 @@ date: 2020-05-16 22:57:12 +0800
 tags: [Learning]
 class: post-template
 subclass: 'post'
-author: shina
+authors: shina
 ---
 
 ## Markdown x HTML
