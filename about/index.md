@@ -1,17 +1,16 @@
 ---
 layout: page
 current: about
-title: About
+title: About Me
 navigation: true
-logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Hi, I'm an Accountant in one of the restaurant in Bali. Since finishing my studies in June 2016, I have spent four years in the hospitality business, where I have learned to translate a strong theory of accounting into reliable procedures that improved the day to day running of both the hotel and the restaurant I worked at.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+![At the restaurant I'm working at](assets/images/shina-nebula.png)
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+When it was time to choose what and whether to study, I chose to spend four years learning more about accounting because it is something I am passionate about. Currently, I learn new skill such as Digital Marketing and Web Development because I want to expand my career.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+
