@@ -110,8 +110,6 @@ body {
     padding-top: 12px;
     padding-bottom: 12px;
     color: #fff;
-    background: color(var(--darkgrey) l(-5%)) no-repeat center center;
-    background-size: cover;
 }
 
 .site-header:before {
@@ -123,7 +121,6 @@ body {
     left: 0;
     z-index: 10;
     display: block;
-    background: rgba(0,0,0,0.18);
 }
 
 .site-header:after {
@@ -1872,7 +1869,6 @@ Usage (In Ghost editor):
     padding-top: 20px;
     padding-bottom: 60px;
     color: #fff;
-    background: color(var(--darkgrey) l(-15%));
 }
 
 .site-footer-content {

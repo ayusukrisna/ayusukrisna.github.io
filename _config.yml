@@ -40,7 +40,7 @@ defaults:
 # Website info
 title: Shina
 description: "An accountant who is one step closer to reaching her goals"
-cover: assets/images/blog-cover.jpg
+cover: assets/images/shina-realcover.JPG
 logo: assets/images/logo.svg
 logo_dark: assets/images/logo.svg
 favicon: assets/images/favicon.png
