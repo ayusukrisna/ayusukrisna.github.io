@@ -12,7 +12,22 @@ $(document).ready(function () {
 
     var progressBar = document.querySelector('progress');
     var header = document.querySelector('.floating-header');
-    var title = document.querySelector('.post-full-title');
+
+    var body = document.querySelector('body');
+
+    var marker = null;
+    if (body.classList.contains('home-template')) {
+        marker = document.querySelector('.site-title')
+        console.log("home");
+    } else if (body.classList.contains('post-template')) {
+        marker = document.querySelector('.post-full-title');
+        console.log("post");
+    } else if (body.classList.contains('page-template')) {
+        marker = document.querySelector('.post-full-title');
+        console.log("page");
+    }
+    console.log(body.classList)
+
 
     var lastScrollY = window.scrollY;
     var lastWindowHeight = window.innerHeight;
@@ -38,8 +53,8 @@ $(document).ready(function () {
     }
 
     function update() {
-        var trigger = title.getBoundingClientRect().top + window.scrollY;
-        var triggerOffset = title.offsetHeight + 35;
+        var trigger = marker.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = 35;
         var progressMax = lastDocumentHeight - lastWindowHeight;
 
         // show/hide floating header

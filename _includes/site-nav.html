@@ -2,9 +2,7 @@
 
   <div class="site-nav-inner">
     <div class="site-nav-left">
-        {% if page.current != 'home' %}
-            <a class="site-nav-logo" href="/"><img src="/{{ site.logo }}" alt="{{ site.title }}" /></a>
-        {% endif %}
+        <a class="site-nav-logo" href="/"><img src="/{{ site.logo }}" alt="{{ site.title }}" /></a>
         {% if page.navigation %}
             {% include navigation.html %}
         {% endif %}
@@ -27,3 +25,35 @@
     </div>
   </div>
 </nav>
+{% if page.class != "post-template" %}
+<div class="floating-header">
+    <div class="floating-header-logo">
+        <a href="{{ site.url }}/">
+            {% if site.logo_dark %}
+                <img src="/{{ site.logo_dark }}" alt="{{ site.title }} icon" />
+            {% endif %}
+            {% if page.navigation %}
+                {% include navigation.html %}
+            {% endif %}
+        </a>
+    </div>
+    <span class="floating-header-divider">&mdash;</span>
+    <div class="floating-header-title">{{ page.title }}</div>
+    <div class="floating-header-share">
+        <div class="floating-header-share-label">Share this {% include point.html %}</div>
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}"
+            onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
+            {% include twitter.html %}
+        </a>
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}"
+            onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
+            {% include facebook.html %}
+        </a>
+    </div>
+    <progress class="progress" value="0">
+        <div class="progress-container">
+            <span class="progress-bar"></span>
+        </div>
+    </progress>
+</div>
+{% endif %}

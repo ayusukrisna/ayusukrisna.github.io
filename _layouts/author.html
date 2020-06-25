@@ -12,9 +12,9 @@ label: Author
 
 <!-- #author  -->
 <!-- Everything inside the #author tags pulls data from the author -->
+{% include site-nav.html %}
 <header class="site-header outer {% if page.cover %}" style="background-image: url(/{{ page.cover }}){% else %}no-cover{% endif %}">
     <div class="inner">
-        {% include site-nav.html %}
         <div class="site-header-content">
             {% if page.picture %}
                 <img class="author-profile-image" src="/{{ page.picture }}" alt="{{ page.name }}" />
