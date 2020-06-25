@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/online.png
 navigation: True
-title: "Online Course is FUN!"
+title: "Online Courses are FUN!"
 date: 2020-05-16 22:57:12 +0800
 tags: [Learning]
 class: post-template

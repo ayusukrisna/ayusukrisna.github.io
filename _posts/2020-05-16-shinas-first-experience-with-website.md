@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/laptop.jpg
 navigation: True
-title: "Shina's First Experience with Website"
+title: "Shina's First Experiences with Web Development"
 date: 2020-05-16 22:57:12 +0800
 tags: [Learning]
 class: post-template

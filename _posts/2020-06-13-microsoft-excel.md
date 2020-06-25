@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/excel.jpg
 navigation: True
-title: "Improving Ms. Excel Skill"
+title: "Improving Microsoft Excel Skills"
 date: 2020-05-16 22:57:12 +0800
 tags: [Learning]
 class: post-template
