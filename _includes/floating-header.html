@@ -3,12 +3,10 @@
         <a href="{{ site.url }}/">
             {% if site.logo_dark %}
                 <img src="/{{ site.logo_dark }}" alt="{{ site.title }} icon" />
-            {% endif %}
-            {% if page.navigation %}
-                {% include navigation.html %}
-            {% endif %}
+            {% endif %}       
         </a>
     </div>
+    {% include navigation.html %}
     <span class="floating-header-divider">&mdash;</span>
     <div class="floating-header-title">{{ page.title }}</div>
     <div class="floating-header-share">

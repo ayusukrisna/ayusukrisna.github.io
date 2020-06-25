@@ -263,10 +263,17 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     display: block;
     margin: 0;
     padding: 10px 12px;
-    color: #fff;
     opacity: 0.8;
     font-weight: 900;
     font-family: 'Quicksand', sans-serif;
+}
+
+.site-nav .nav li a {
+    color: #fff;
+}
+
+.floating-header .nav li a {
+    color: #000;
 }
 
 .nav li a:hover {
@@ -306,6 +313,15 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .social-link svg {
     height: 1.8rem;
     fill: #fff;
+}
+
+.site-nav .social-link svg {
+    height: 1.8rem;
+    fill: #fff;
+}
+
+.floating-header svg {
+    fill: black;
 }
 
 .social-link-fb svg {
