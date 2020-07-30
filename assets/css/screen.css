@@ -726,6 +726,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .footnotes {
     min-width: 100%;
     font-family: 'Quicksand', sans-serif;
+    text-align: justify;
 }
 
 .post-full-content li {
