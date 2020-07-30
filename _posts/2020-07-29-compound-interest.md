@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/money.jpg
 navigation: True
-title: "Compound Interest is a Magic!"
+title: "Compound Interest is Magic!"
 date: 2020-07-29 22:59:50 +0800
 tags: [Learning]
 class: post-template
