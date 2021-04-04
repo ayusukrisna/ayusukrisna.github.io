@@ -4,7 +4,7 @@ current: post
 cover: assets/images/baca.JPG
 navigation: True
 title: "Habits, Books, and Personal Growth"
-date: 2021-02-15 22:21:20 +0800
+date: 2021-04-03 22:21:20 +0800
 tags: [Life, Things I Like]
 class: post-template
 subclass: 'post'
@@ -31,7 +31,8 @@ The program runs for four weeks, covering a topic each week:
 There are 28 summaries of the best books to achieve my goals. Here is the flow, I should check my plan on daily basis, read each summary of the book for 15 minutes and celebrate the progress. Thick each book every time I finish read them. 
 Since starting the program, I consistently read a few pages of books every day, and yeah, I can feel the difference! I have been feeling more positive and that every day, I am one percent closer to being a better person. 
 
-For the past few years, I can honestly say that I didn’t even think about reading books; especially non-fiction. When I was in junior high school, I loved reading comics, though I didn’t really like to read a novel, or even just a page full of words. However, I have since realized that successful people love to read books. I think that there is so much knowledge to be gained, and that’s why they read them. 
+For the past few years, I can honestly say that I didn’t even think about reading books; especially non-fiction. When I was in junior high school, I loved reading comics, though I didn’t really like to read a novel, or even just a page full of words. However, I have since realized that successful people love to read books. I think that there is so much knowledge to be gained, and that’s why they read them.
+ 
 I started by reading a non-fiction book regarding financial and personal growth a year ago. At first, I didn’t enjoy reading it; I felt sleepy after reading just a few words. I didn’t pick the book up again until six months later, in early 2021. I started to put all of my effort, and focus into the book and read carefully. I found that not only can I understand it, but I can get a real benefit! 
 
 ![Atomic Habits!](/assets/images/atomic.jpg "Atomic Habits")
