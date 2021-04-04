@@ -1,10 +1,10 @@
 ---
 layout: post
 current: post
-cover: assets/images/baca.JPG
+cover: assets/images/baca.jpg
 navigation: True
 title: "Habits, Books, and Personal Growth"
-date: 2021-04-03 22:21:20 +0800
+date: 2021-04-04 12:21:20 +0800
 tags: [Life, Things I Like]
 class: post-template
 subclass: 'post'
