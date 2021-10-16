@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/room.jpg
 navigation: True
-title: "Take a Break"
+title: "Take A Break"
 date: 2021-08-24 08:21:20 +0800
 tags: [Life]
 class: post-template
