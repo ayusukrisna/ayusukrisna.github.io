@@ -3,8 +3,8 @@ layout: post
 current: post
 cover: assets/images/alone.jpg
 navigation: True
-title: "THE REASON WHY WE NEED TIME ALONE"
-date: 2021-10-15 08:21:20 +0800
+title: "The Reason Why We Need Time Alone"
+date: 2021-12-12 08:21:20 +0800
 tags: [Life]
 class: post-template
 subclass: 'post'
@@ -31,7 +31,10 @@ Sometimes, if I have enough energy left after work, I will run three to five kil
 
 What is the point of giving yourself alone time? Well, it means that you can explore these things without the pressures and judgments that others may impose. Having time to yourself is critical for growth and personal development. Instead of worrying about the needs, interests, and opinions that others may have, alone time lets you focus on yourself. 
 
-In my workplace environment, we always think about other people first over ourselves. For instance, we care for and prioritize our family, our partner, and even our colleagues. I have a married friend that barely has any time for herself. She’s always busy with housework, looking after her husband and kids, and doing her day job too. The stress she has makes her looks older than her age. Whenever I ask her if she’s okay, she just smiles and nods; even when I know she’s definitely not okay. What would she have to do to have time for herself? Ignore the needs of her family? Of course not! In my opinion, she should discuss it with her husband, and ask if he can help more so that she can have time to her self away from her busy life. Even if it’s just half a day here and there to go to Salon for a spa or beauty service. If she’s happier, she will bring more joy to her family, I can guarantee it! Good moods create better relationships. 
+In my workplace environment, we always think about other people first over ourselves. For instance, we care for and prioritize our family, our partner, and even our colleagues. 
+
+I have a married friend that barely has any time for herself. She’s always busy with housework, looking after her husband and kids, and doing her day job too. The stress she has makes her looks older than her age. Whenever I ask her if she’s okay, she just smiles and nods; even when I know she’s definitely not okay. What would she have to do to have time for herself? Ignore the needs of her family? Of course not! In my opinion, she should discuss it with her husband, and ask if he can help more so that she can have time to her self away from her busy life. Even if it’s just half a day here and there to go to Salon for a spa or beauty service. If she’s happier, she will bring more joy to her family, I can guarantee it! Good moods create better relationships. 
+
 Having quality time alone can help you to improve your mental health by giving you the opportunity to purge the toxicity from your life and allow you to “mentally reset”. 
 
 I found an article online listing 10 benefits of spending time alone; [you can click this link to read about it](https://tanyadalton.com/blog/10-benefits-of-spending-time-alone).
