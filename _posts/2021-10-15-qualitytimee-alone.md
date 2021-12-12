@@ -1,52 +1,40 @@
 ---
 layout: post
 current: post
-cover: assets/images/room.jpg
+cover: assets/images/alone.jpg
 navigation: True
-title: "Take A Break"
-date: 2021-08-24 08:21:20 +0800
+title: "THE REASON WHY WE NEED TIME ALONE"
+date: 2021-10-15 08:21:20 +0800
 tags: [Life]
 class: post-template
 subclass: 'post'
 authors: [shina, jet]
 ---
-Do you ever feel stuck in place?
- 
-This year, I tried so hard to grow to be a better person and take small steps to reach my goals, but I feel like I didn’t make any progress. For two weeks this month, (August 2021) I just lay in my bed (in Indonesia we called it as rebahan), and didn’t want to do anything even thought I already knew exactly what I should do.
+Our daily activities can sometimes make us stressed and fed up. We get tired of having the same routine every day. From getting up in the morning, prepare to work eight (or more!) hours, traveling to and from work, and spend our meager free time on Netflix or social media until we fall asleep and face the same day tomorrow. Then, when the weekend finally comes, it’s fleeting and before we know it, it’s Monday again!
 
-On the 18th of August, I took a Swab Antigen Test because I had a fever and a headache for a few days that progressed on to a cough, blocked nose, and then finally to a loss of my ability to smell and taste. Yeah, I got Covid-19.
+I found out a joke on Facebook recently. It said: “Life isn’t fair. Why does Monday to Friday take five days, but Saturday to Sunday only feels like one day?”
 
-Honestly, I hoped that I would be able to avoid contracting the virus. I already received two doses of vaccine in March 2021. Why did I still get the virus? Well, my vaccine only helps to reduce the severity of the symptoms. I’m glad that I didn’t become breathless, as that sounds dreadful. My body still felt okay when I took test, just a little weak.
+I had a question that I couldn’t answer with a good explanation; why do most people only feel excitement for the weekend? I do that too. I get tired of my work week and I want the weekend to come faster. Sometimes I wish I could even skip the week days! 
 
-When the doctor told me that I tested positive, I had mix feelings such as:
+Boredom makes us psychologically and emotionally exhausted. Sometimes when we hit the rock bottom, we question ourselves:
 
--	I won’t able to work, and will receive a reduced salary
+“Why am I not passionate about my life?”
 
--	What will happen to my body because of the virus?
+“Why is my life monotonous?”
 
--	How can I spend days only in one room?
+We can’t change external factors and force them to make you feel ALIVE.
+What we can do is start from within. Do the things that make you happy. Go on a solo ‘date’, just yourself. Maybe a walk in nature, or a beer at cozy cafe or a long drive. Just you and your thoughts. How about a movie with yourself? There are tons of things that you can do to divert your mind from the things that are annoying you.
 
--	Will my family have to isolate as well?
+Enjoying quality time alone is important to me. A few times per month, I take a break and just do my hobbies on my own; I escape from my reality or from my daily activities and solely focus on the story of a movie. I just lay down in my bed and spend my time without much thinking and only focus on the screen. 
 
-I received many DMs on Instagram. My friends encouraged me and told me that they had prayed for me. My colleagues also texted me to wish that I get well soon. I’m happy that many people cared enough about me to send their well wishes whilst I was ill. It helped me have faith that I can get through this situation. One thing that I need to do if I want to recover quickly is to be happy and have a positive mindset.
+Sometimes, if I have enough energy left after work, I will run three to five kilometers  - just to release the stress. When we have a hard time at work, what we need the most is to release our work-stress and burdens! Sometimes, I don’t have energy; I’m just exhausted. In those times, I might cry on may home. Cry out of loud where nobody can hear or see me. 
 
-One day, when I lay down in my bed, I stared at the ceiling and was full of thoughts.
+What is the point of giving yourself alone time? Well, it means that you can explore these things without the pressures and judgments that others may impose. Having time to yourself is critical for growth and personal development. Instead of worrying about the needs, interests, and opinions that others may have, alone time lets you focus on yourself. 
 
-1.	I want to start creating content, but why don’t I create consistently?
+In my workplace environment, we always think about other people first over ourselves. For instance, we care for and prioritize our family, our partner, and even our colleagues. I have a married friend that barely has any time for herself. She’s always busy with housework, looking after her husband and kids, and doing her day job too. The stress she has makes her looks older than her age. Whenever I ask her if she’s okay, she just smiles and nods; even when I know she’s definitely not okay. What would she have to do to have time for herself? Ignore the needs of her family? Of course not! In my opinion, she should discuss it with her husband, and ask if he can help more so that she can have time to her self away from her busy life. Even if it’s just half a day here and there to go to Salon for a spa or beauty service. If she’s happier, she will bring more joy to her family, I can guarantee it! Good moods create better relationships. 
+Having quality time alone can help you to improve your mental health by giving you the opportunity to purge the toxicity from your life and allow you to “mentally reset”. 
 
-2.	I want to be a productive person, but why do I just lay in bed and scroll on social media?
+I found an article online listing 10 benefits of spending time alone; [you can click this link to read about it](https://tanyadalton.com/blog/10-benefits-of-spending-time-alone).
 
-3.	I want to have another income stream, but why didn’t I start anything?
+Finally, remember that NOBODY cannot help you except YOURSELF. Take care of your body, mind and soul, and live the life you want. If there’s something you can’t change, don’t think too hard about it. Try to manage what you can - start by controlling your mind.
 
-I was confused, and I really felt that I lost hope. I’m not sure if this was because of the virus; perhaps it made both my body and my mind enter an unhealthy state or whatever. I knew that I should jump out of my bed, stop scrolling, and take action, but my body didn’t want to help me get up from my comfort zone. Alright, the lazy voice in my head wins. I fell into a deep, dark state of mind.
-
-Then, one of my friends said to me, “It’s okay if you want to take a break from your activities. You have been given a time to think and evaluate yourself. Calm down. Once you accept the feeling, you will come back again full of spirit! Get well soon Shina!”
-After I read that message, I felt better and accepted the feeling. I knew that it’s possible to heal and achieve a healthy body and mind again. Sometimes we just need to get through the hard time first. It’s normal to feel stressed, confused, anxious, or angry. 
-
-*‘Difficult times always teach us the most important lessons about life and growth.’* 
-
-My friend is right, this is an opportunity for me to take a break, connect with myself, heal my body, and reflect during my self-isolation. 
-
-I found the following quote very helpful for those of us who face a hard time in life:
-
-![All is Well!](/assets/images/alliswell.jpg "Quote")
